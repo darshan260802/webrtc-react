@@ -1,0 +1,16 @@
+{
+  "name": "rtc-server",
+  "version": "1.0.0",
+  "description": "test web rtc exchange servewr",
+  "main": "index.js",
+  "author": "Darshan Patel",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
